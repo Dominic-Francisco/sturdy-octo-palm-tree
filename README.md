@@ -1,4 +1,4 @@
-# Plano de Hospitsalide Culto portuguese
+# Plano de Hospitalide Culto portuguese
 (Vai variar de acordo aos domingos que teremos separados)
 # Primeiro domingo
 //Dentro da sala: Radka/Carmen/Lidio//
