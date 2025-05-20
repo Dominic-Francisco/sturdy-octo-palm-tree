@@ -1,4 +1,16 @@
-# sturdy-octo-palm-treeA vida
-A vida eh boa para com aqueles que encotram esperanca em Deus
-A vida tem muito a dar 
+# Plano de Hospitsalide Culto portuguese
+(Vai variar de acordo aos domingos que teremos separados)
+# Primeiro domingo
+//Dentro da sala: Radka/Carmen/Lidio//
+//Auxiliar do pregador:Domingos/Lidio//
+//A servir ЧАЙ: Lidio/Carmen/
+# Segundo domingo
+//Dentro da sala: Domingos/Carmen
+//Auxiliar do pregador:Domingos
+//A servir ЧАЙ: Lidio/Radka/Rebeca
+# Terceiro domingo
+//Dentro da sala: Carmen
+//Auxiliar do pregador:Lidio
+//A servir ЧАЙ: Radka/Rebeca
+
 
