@@ -1,7 +1,7 @@
 # Plano de Hospitalide Culto portuguese
 
 
-|          Plano de Hospitalide Culto portuguese            | 
+|        Plano de Hospitalide Culto portuguese            | 
 |----------------------|------------------------------------|
 | Primeiro domingo     | Dentro da sala: Radka/Cármen/Lidio |
 | Primeiro domingo     | Auxiliar do pregador:Domingos/Lidio| 
