@@ -3,9 +3,9 @@
 
 |          Plano de Hospitalide Culto portuguese            | 
 |----------------------|------------------------------------|
-|                      | Dentro da sala: Radka/Cármen/Lidio |
+| Primeiro domingo     | Dentro da sala: Radka/Cármen/Lidio |
 | Primeiro domingo     | Auxiliar do pregador:Domingos/Lidio| 
-|                      | A servir Чай: Lidio/Cármen         |   
+| Primeiro domingo     | A servir Чай: Lidio/Cármen         |   
 |                      | Dentro da sala: Radka/Cármen/Lidio |
 | Segundo domingo      | Auxiliar do pregador:Domingos/Lidio| 
 |                      | A servir Чай: Lídio/Cármen         |   
