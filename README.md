@@ -25,7 +25,8 @@
 | Aug 10, 2025         | Black and White  |
 | Aug 17, 2025         | Free Dress Code  |
 | Aug 24, 2025         | Blue Jeans and White|
-| Primeiro domingo     | Black and Red    |
-|  Segundo domingo     | Black and White  |
-| Terceiro domingo     | Free Dress Code  |
 
+**| Plano para o culto portuguêS          |**
+| Primeiro domingo     | Dentro da sala: Radka/Cármen/Lidio    |
+|  Segundo domingo     | Dentro da sala: Radka/Cármen/Lidio  |
+| Terceiro domingo     | Dentro da sala: Radka/Cármen/Lidio |
