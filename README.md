@@ -1,7 +1,7 @@
 # Plano de Hospitalide Culto portuguese
 
 
-|        Plano de Hospitalide Culto portuguese            | 
+|          Plano de Hospitalide Culto portuguese            | 
 |----------------------|------------------------------------|
 | Primeiro domingo     | Dentro da sala: Radka/Cármen/Lidio |
 | Primeiro domingo     | Auxiliar do pregador:Domingos/Lidio| 
@@ -25,5 +25,7 @@
 | Aug 10, 2025         | Black and White  |
 | Aug 17, 2025         | Free Dress Code  |
 | Aug 24, 2025         | Blue Jeans and White|
-| Aug 31, 2025         | Black and Red   |
+| Primeiro domingo     | Black and Red    |
+|  Segundo domingo     | Black and White  |
+| Terceiro domingo     | Free Dress Code  |
 
